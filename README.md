@@ -1,7 +1,7 @@
 # Macrosteles-project-Bioinformatic-pipeline
 Our symbio lab's bioinformatic pipeline
 
-Description of the pipeline created in the Symbiosis Evolution Group and used to generate data used for analysis of Philaenus amplicon sequencing data.
+Description of the pipeline created in the Symbiosis Evolution Group and used to generate data used for analysis of Macrosteles amplicon sequencing data.
 Amplicon processing (used for both COI and 16S data):
 
     Analyses each library (sample) separately,
