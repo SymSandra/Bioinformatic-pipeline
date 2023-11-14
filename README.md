@@ -3,7 +3,7 @@ In this repository, we introduce our approaches to describe the genetic and micr
 The repository is divided into two distinctive sections:
 ## 1. [Laboratory procedures](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Laboratory%20procedures)
 Where we describe protocols used for:
-### [Homogenization] (https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Homogenization)
+### [Homogenization](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Homogenization)
 ### DNA extraction
 ### PCR conditions
 ### Library preparation
