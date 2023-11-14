@@ -1,5 +1,13 @@
-# Description of the pipeline created in the Symbiosis Evolution Group and used to generate data used for analysis of Macrosteles amplicon sequencing data.
-
+# _Macrosteles_ project
+In this repository, we introduce our approaches to describe the genetic and microbial variation of _Macrosteles_ leafhoppers across various populations. 
+The repository is divided into two distinctive sections:
+## 1. Laboratory procedures
+Where we describe protocols used for:
+### DNA extraction
+### PCR conditions
+### Library preparation
+## 2. Bioinformatics
+Where we provide detailed information about custom bioinformatic approaches for amplicon data analysis.
 ### [Amplicon processing](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Amplicon%20processing) (used for both COI and 16S data):
 - Analyses each library (sample) separately,
 - Merges R1 and R2 reads, passes only high-quality reads,
