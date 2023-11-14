@@ -6,5 +6,17 @@ Basics:
 concentration might be needed.
 • When preparing Master Mix always use more reagents than needed (~10% more).
 • Always sign the PCR plate with your name and date.
-• Amount of all ingredients used in PCR and reaction volume might be changed freely, but „2x Qiagen Buffer” must always be half the volume.
+• The amount of all ingredients used in PCR and reaction volume might be changed freely, but „2x Qiagen Buffer” must always be half the volume.
 • Do not have to prepare PCR on ice!
+
+
+
+
+Standard thermocycler program for Qiagen Multiplex
+Step Temp. [oC] Time [s] Cycles
+Initial denaturation 95 900 1
+Denaturation 94 30 25*
+Annealing 50 90 25*
+Extension 72 90 25*
+Final extension 72 600 1
+Store 8 ∞
