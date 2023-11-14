@@ -20,3 +20,7 @@ Annealing             50            90               25
 Extension             72            90               25
 Final extension       72            600              1
 Store                  8             ∞
+
+
+The PCR products were purified using SPRI magnetic beads and used as templates for the second indexing PCR reaction. 
+Pooled libraries were sequenced on an Illumina MiSeq v3 lane (2 × 300 bp reads) at the Institute of Environmental Sciences of Jagiellonian University.
