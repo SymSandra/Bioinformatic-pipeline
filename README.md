@@ -4,7 +4,7 @@ The repository is divided into two distinctive sections:
 ## 1. [Laboratory procedures](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Laboratory%20procedures)
 Where we describe protocols used for:
 ### [Homogenization](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Homogenization)
-### DNA extraction
+### [DNA extraction](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/DNA%20extraction)
 ### PCR conditions
 ### Library preparation
 ## 2. Bioinformatics
