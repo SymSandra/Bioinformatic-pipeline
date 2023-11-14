@@ -13,10 +13,10 @@ concentration might be needed.
 
 
 Standard thermocycler program for Qiagen Multiplex
-Step Temp. [oC] Time [s] Cycles
-Initial denaturation 95 900 1
-Denaturation 94 30 25*
-Annealing 50 90 25*
-Extension 72 90 25*
-Final extension 72 600 1
-Store 8 ∞
+Step Temp.          [oC]          Time [s]         Cycles
+Initial denaturation  95            900              1
+Denaturation          94            30               25
+Annealing             50            90               25
+Extension             72            90               25
+Final extension       72            600              1
+Store                  8             ∞
