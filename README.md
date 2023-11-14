@@ -5,7 +5,7 @@ The repository is divided into two distinctive sections:
 Where we describe protocols used for:
 ### [Homogenization](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Homogenization)
 ### [DNA extraction](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/DNA%20extraction)
-### PCR
+### [PCR](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/PCR)
 ### Library preparation
 ## 2. Bioinformatics
 Where we provide detailed information about custom bioinformatic approaches for amplicon data analysis.
