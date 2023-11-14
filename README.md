@@ -1,7 +1,7 @@
 # _Macrosteles_ project
 In this repository, we introduce our approaches to describe the genetic and microbial variation of _Macrosteles_ leafhoppers across various populations. 
 The repository is divided into two distinctive sections:
-## 1. Laboratory procedures
+## 1. [Laboratory procedures](https://github.com/SymSandra/Macrosteles-project-Bioinformatic-pipeline/blob/main/Laboratory%20procedures)
 Where we describe protocols used for:
 ### DNA extraction
 ### PCR conditions
